@@ -10,6 +10,8 @@ This game is purely developed for fun and educational purpose.
 * If the guessed number is greater than the hidden number, the user will receive a hint to enter a lower number.
 * When the guessed number is same as hidden number, the user will be given the the no. of attempts that he/she took to guess the number.
 
+####This file contains the code of the game in both c language and python language. 
+
 ### Header files included : For C program
 * #include<stdio.h>
 * #include<stdlib.h>
