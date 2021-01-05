@@ -1,5 +1,5 @@
 import random
-n = (random.randint(1,50))
+n = (random.randint(1,100))
 i = 9
 while(i>=0):
     print("Guess the number!!")
